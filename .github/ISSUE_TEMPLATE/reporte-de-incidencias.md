@@ -7,15 +7,15 @@ assignees: RafaelOrtiz06
 
 ---
 
-# Comportamiento Esperado:
+## Comportamiento Esperado:
 ---
-# Comportamiento Actual:
+## Comportamiento Actual:
 ---
-# Pasos a reproducir
+## Pasos a reproducir
 ---
-# Evidencias
+## Evidencias
 ---
-# Contexto (Ambiente de ejecución)
+## Contexto (Ambiente de ejecución)
 ---
-# Información adicional
+## Información adicional
 ---
